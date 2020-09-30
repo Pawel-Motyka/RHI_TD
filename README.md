@@ -1,6 +1,6 @@
 ## Tactile information counteracts the attenuation of rubber hand illusion attributable to increased visuo-proprioceptive divergence
 
-Piotr Litwin<sup>1</sup>, <sup>2</sup><sup>, Beata Zybura<sup>1</sup>, Paweł Motyka<sup>1</sup>
+Piotr Litwin<sup>1</sup><sup>,</sup><sup>2</sup>, Beata Zybura<sup>1</sup>, Paweł Motyka<sup>1</sup>
 <br/>
 <br/>
 <sup>1</sup>Faculty of Psychology, University of Warsaw, 00-183 Warsaw, Poland <br/>
