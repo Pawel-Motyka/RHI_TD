@@ -17,7 +17,7 @@ integration; causal inference
 #### Steps to reproduce the analysis:
 - download the entire repository as a zip-file 
 - open the relevant the code file in the downloaded folder (not directly from R studio, as the “here” function is used for setting the directory)
-- make sure that you have all the required packages installed
+- make sure that you have all the required packages installed (they are loaded in the first chunk of each code file)
 - for each code file, run the analysis chunk by chunk in sequential order.
 
 R Markdown report (HTML file) presents the code along with its output.
